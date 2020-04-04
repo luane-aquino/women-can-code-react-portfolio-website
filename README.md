@@ -2,11 +2,11 @@ Simples react app de um portfólio website. Atividade desenvolvida no womenCanCo
 
 ## Available Scripts
 
-npm install
+`npm install`
 
-json-server --watch api.json
+`json-server --watch api.json`
 
-npm start
+`npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
