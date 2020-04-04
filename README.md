@@ -1,6 +1,6 @@
 Simples react app de um portfólio website. Atividade desenvolvida no womenCanCode/Venturus em 2020.
 
-## Available Scripts
+## Commandos para executar o projeto localmente
 
 `npm install`
 
