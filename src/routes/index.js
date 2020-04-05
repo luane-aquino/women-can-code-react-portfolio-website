@@ -1,9 +1,9 @@
 import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 
-import Home from '../pages/home'
-import Contato from '../pages/contato'
-import Portfolio from '../pages/portfolio'
+import Home from '../pages/Home'
+import Contato from '../pages/Contato'
+import Portfolio from '../pages/Portfolio'
 
 function Routes() {
   return (
