@@ -4,6 +4,8 @@ Simples react app de um portfólio website. Atividade desenvolvida no womenCanCo
 
 `npm install`
 
+`npm install -g json-server`
+
 `json-server --watch api.json`
 
 `npm start`
