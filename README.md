@@ -1,6 +1,6 @@
 # Portfolio website
 
-Portfolio website using React.Demo link: https://luane-aquino.github.io/portfolio
+Portfolio website example using React.Demo link: https://luane-aquino.github.io/portfolio
 
 ## Commands to run this project locally
 
