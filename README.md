@@ -1,6 +1,12 @@
-Simples react app de um portfólio website. Atividade desenvolvida no womenCanCode/Venturus em 2020.
+# Portfolio website
 
-## Commandos para executar o projeto localmente
+Portfolio website using React.Demo link: https://luane-aquino.github.io/portfolio
+
+## Commands to run this project locally
+
+`git clone git@github.com:luane-aquino/portfolio.git`
+
+`cd portfolio`
 
 `npm install`
 
